@@ -5,7 +5,7 @@ Its a GST calculator used in grossery stores
 <!DOCTYPE html>
 <html>
     <head>
-        <title>GST CALCULATOR</title>
+        <title>GST CALCULATOR HOSTED THROUGH AWS</title>
 		<h2 style="color:brown;"><b>GROCERY STORE GST CALCULATOR</b></h2>
 		<style>
 		input{
